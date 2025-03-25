@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Arya and I'm a Full Stack developer from Banglore</h2>
+<h2 align="left">Hi 👋! My name is Arya and I'm a Full Stack developer</h2>
 
 ###
 
